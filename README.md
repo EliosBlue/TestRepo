@@ -2,4 +2,4 @@
 
 This project was created to experiment with git.
 
-team made a change
+team made changes
